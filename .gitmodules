@@ -1,0 +1,66 @@
+[submodule "Exploitation/ObfuscatedSharpCollection"]
+	path = Exploitation/ObfuscatedSharpCollection
+	url = https://github.com/Flangvik/ObfuscatedSharpCollection
+[submodule "Exploitation/SharpCollection"]
+	path = Exploitation/SharpCollection
+	url = https://github.com/Flangvik/SharpCollection
+[submodule "Exploitation/PetitPotam"]
+	path = Exploitation/PetitPotam
+	url = https://github.com/topotam/PetitPotam
+[submodule "Exploitation/AtlasReaper"]
+	path = Exploitation/AtlasReaper
+	url = https://github.com/werdhaihai/AtlasReaper
+[submodule "Recon/ADRecon"]
+	path = Recon/ADRecon
+	url = https://github.com/adrecon/ADRecon
+[submodule "Development/AssemblyHunter"]
+	path = Development/AssemblyHunter
+	url = https://github.com/0xthirteen/AssemblyHunter
+[submodule "Development/CrimsonEDR"]
+	path = Development/CrimsonEDR
+	url = https://github.com/Helixo32/CrimsonEDR/
+[submodule "Development/SharpAltShellCodeExec"]
+	path = Development/SharpAltShellCodeExec
+	url = https://github.com/werdhaihai/SharpAltShellCodeExec
+[submodule "Development/BestEdrOfTheMarket"]
+	path = Development/BestEdrOfTheMarket
+	url = https://github.com/Xacone/BestEdrOfTheMarket
+[submodule "Recon/PowerSploit"]
+	path = Recon/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit
+[submodule "BOFs/C2-Tool-Collection"]
+	path = BOFs/C2-Tool-Collection
+	url = https://github.com/outflanknl/C2-Tool-Collection
+[submodule "BOFs/CS-Remote-OPs-BOF"]
+	path = BOFs/CS-Remote-OPs-BOF
+	url = https://github.com/trustedsec/CS-Remote-OPs-BOF
+[submodule "BOFs/CS-Situational-Awareness-BOF"]
+	path = BOFs/CS-Situational-Awareness-BOF
+	url = https://github.com/trustedsec/CS-Situational-Awareness-BOF
+[submodule "BOFs/EnableWebDAVClient-BOF"]
+	path = BOFs/EnableWebDAVClient-BOF
+	url = https://github.com/KingOfTheNOPs/EnableWebDAVClient-BOF/
+[submodule "Recon/LdapSignCheck"]
+	path = Recon/LdapSignCheck
+	url = https://github.com/cube0x0/LdapSignCheck
+[submodule "BOFs/Stracciatella"]
+	path = BOFs/Stracciatella
+	url = https://github.com/mgeeky/Stracciatella/
+[submodule "BOFs/community_kit"]
+	path = BOFs/community_kit
+	url = https://github.com/Cobalt-Strike/community_kit
+[submodule "Exploitation/PowerUpSQL"]
+	path = Exploitation/PowerUpSQL
+	url = https://github.com/NetSPI/PowerUpSQL
+[submodule "BOFs/AggressorScripts"]
+	path = BOFs/AggressorScripts
+	url = https://github.com/bluscreenofjeff/AggressorScripts
+[submodule "BOFs/Aggressor-Aggregator"]
+	path = BOFs/Aggressor-Aggregator
+	url = https://github.com/sudonoodle/Aggressor-Aggregator
+[submodule "Exploitation/JAWS"]
+	path = Exploitation/JAWS
+	url = https://github.com/411Hall/JAWS
+[submodule "Exploitation/GodPotato"]
+	path = Exploitation/GodPotato
+	url = https://github.com/BeichenDream/GodPotato
