@@ -64,3 +64,45 @@
 [submodule "Exploitation/GodPotato"]
 	path = Exploitation/GodPotato
 	url = https://github.com/BeichenDream/GodPotato
+[submodule "Development/ThreatCheck"]
+	path = Development/ThreatCheck
+	url = https://github.com/rasta-mouse/ThreatCheck
+[submodule "Cloud/offensive-azure"]
+	path = Cloud/offensive-azure
+	url = https://github.com/blacklanternsecurity/offensive-azure
+[submodule "Cloud/ScoutSuite"]
+	path = Cloud/ScoutSuite
+	url = https://github.com/nccgroup/ScoutSuite
+[submodule "Cloud/GraphRunner"]
+	path = Cloud/GraphRunner
+	url = https://github.com/dafthack/GraphRunner
+[submodule "Cloud/MicroBurst"]
+	path = Cloud/MicroBurst
+	url = https://github.com/NetSPI/MicroBurst
+[submodule "Cloud/aws_consoler"]
+	path = Cloud/aws_consoler
+	url = https://github.com/NetSPI/aws_consoler
+[submodule "Cloud/cloudjack"]
+	path = Cloud/cloudjack
+	url = https://github.com/prevade/cloudjack
+[submodule "Cloud/CredKing"]
+	path = Cloud/CredKing
+	url = https://github.com/ustayready/CredKing
+[submodule "Cloud/endgame"]
+	path = Cloud/endgame
+	url = https://github.com/hoodoer/endgame
+[submodule "Cloud/AADInternals"]
+	path = Cloud/AADInternals
+	url = https://github.com/Gerenios/AADInternals
+[submodule "Cloud/aadcookiespoof"]
+	path = Cloud/aadcookiespoof
+	url = https://github.com/jsa2/aadcookiespoof
+[submodule "Cloud/AzureHound"]
+	path = Cloud/AzureHound
+	url = https://github.com/BloodHoundAD/AzureHound
+[submodule "Cloud/TeamFiltration"]
+	path = Cloud/TeamFiltration
+	url = https://github.com/Flangvik/TeamFiltration
+[submodule "Cloud/MFASweep"]
+	path = Cloud/MFASweep
+	url = https://github.com/dafthack/MFASweep
