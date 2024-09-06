@@ -106,3 +106,6 @@
 [submodule "Cloud/MFASweep"]
 	path = Cloud/MFASweep
 	url = https://github.com/dafthack/MFASweep
+[submodule "BOFs/OperatorsKit"]
+	path = BOFs/OperatorsKit
+	url = https://github.com/REDMED-X/OperatorsKit
