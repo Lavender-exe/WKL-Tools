@@ -109,3 +109,21 @@
 [submodule "BOFs/OperatorsKit"]
 	path = BOFs/OperatorsKit
 	url = https://github.com/REDMED-X/OperatorsKit
+[submodule "Recon/dns-triage"]
+	path = Recon/dns-triage
+	url = https://github.com/Wh1t3Rh1n0/dns-triage
+[submodule "Recon/airCross"]
+	path = Recon/airCross
+	url = https://github.com/optiv/airCross
+[submodule "Recon/IceScraper"]
+	path = Recon/IceScraper
+	url = https://github.com/Wh1t3Rh1n0/IceScraper
+[submodule "Recon/TeamsEnum"]
+	path = Recon/TeamsEnum
+	url = https://github.com/sse-secure-systems/TeamsEnum
+[submodule "Exploitation/CredMaster"]
+	path = Exploitation/CredMaster
+	url = https://github.com/knavesec/CredMaster
+[submodule "Exploitation/TokenTactics"]
+	path = Exploitation/TokenTactics
+	url = https://github.com/Wh1t3Rh1n0/TokenTactics
