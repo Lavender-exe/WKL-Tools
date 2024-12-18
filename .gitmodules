@@ -127,3 +127,6 @@
 [submodule "Exploitation/TokenTactics"]
 	path = Exploitation/TokenTactics
 	url = https://github.com/Wh1t3Rh1n0/TokenTactics
+[submodule "Development/ProtectMyTooling"]
+	path = Development/ProtectMyTooling
+	url = https://github.com/mgeeky/ProtectMyTooling
