@@ -130,3 +130,6 @@
 [submodule "Development/ProtectMyTooling"]
 	path = Development/ProtectMyTooling
 	url = https://github.com/mgeeky/ProtectMyTooling
+[submodule "Cloud/Vajra"]
+	path = Cloud/Vajra
+	url = https://github.com/TROUBLE-1/Vajra
